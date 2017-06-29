@@ -83,6 +83,15 @@
         .col-180 {
             width: 180px;
         }
+        .stack-quadrant {
+            border-top: 0;
+            border-right: 2px solid #dddddd;
+            border-bottom: 0;
+            border-left: 0;
+        }
+        .stack-quadrant.last {
+            border-right: 0;
+        }
         @media screen and (max-width: 600px) {
             .email-container {
                 width: 100% !important;
@@ -103,6 +112,51 @@
                 max-width: 100% !important;
                 direction: ltr !important;
             }
+
+            .stack-quadrant {
+                display: inline-block !important;
+                width: 49% !important;
+                max-width: 49% !important;
+                direction: ltr !important;
+                text-align: center !important;
+                border-right: 0 !important;
+            }
+
+            .stack-quadrant.third img,
+            .stack-quadrant.last img{
+                margin-top:12px !important;
+            }
+
+            .stack-quadrant.first {
+                border-top: 0 !important;
+                border-right: 1px solid #dddddd !important;
+                border-bottom: 1px solid #dddddd !important;
+                border-left: 0 !important;
+                padding-bottom: 12px;
+            }
+
+            .stack-quadrant.second {
+                border-top: 0 !important;
+                border-right: 0 !important;
+                border-bottom: 1px solid #dddddd !important;
+                border-left: 1px solid #dddddd !important;
+                padding-bottom: 12px;
+            }
+
+            .stack-quadrant.third {
+                border-top: 1px solid #dddddd !important;
+                border-right: 1px solid #dddddd !important;
+                border-bottom: 0 !important;
+                border-left: 0 !important;
+            }
+
+            .stack-quadrant.last {
+                border-top: 1px solid #dddddd !important;
+                border-right: 0 !important;
+                border-bottom: 0 !important;
+                border-left: 1px solid #dddddd !important;
+            }
+
             .stack-column-center {
                 text-align: center !important;
             }
@@ -199,69 +253,75 @@
         <!-- 1 Column Text : END -->
 
         <!-- 4 Even Columns : BEGIN -->
+        <!--
+        http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01db/1/-/-/-/-/cdl-1-reduce-accidents.png
+        http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01da/1/-/-/-/-/cdl-1-lower-csa-scores.png
+        http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d9/1/-/-/-/-/cdl-1-improve-driver-performance.png
+        http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d8/1/-/-/-/-/cdl-1-eliminate-oos-orders.png
+        -->
         <tr>
             <td bgcolor="#ffffff" align="center" valign="top" style="padding: 10px;">
                 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tr>
                         <!-- Column : BEGIN -->
-                        <td width="25%" class="stack-column-center">
+                        <td class="stack-quadrant first">
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                 <tr>
                                     <td style="padding: 6px 0; text-align: center">
-                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d6/1/-/-/-/-/cdl-1-cdl-transportation-video.png" width="69" height="69" alt="CDL Transportation Video" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
+                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d9/1/-/-/-/-/cdl-1-improve-driver-performance.png" width="69" height="69" alt="Improve Driver Performance" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 12px; text-align: center; width:100%;">
-                                        <strong>Improve driver<br />performance</strong>
+                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 6px; text-align: center; width:100%;">
+                                        <strong>Improve Driver<br />Performance</strong>
                                     </td>
                                 </tr>
                             </table>
                         </td>
                         <!-- Column : END -->
                         <!-- Column : BEGIN -->
-                        <td width="25%" class="stack-column-center">
+                        <td class="stack-quadrant second">
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                 <tr>
                                     <td style="padding: 6px 0; text-align: center">
-                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d6/1/-/-/-/-/cdl-1-cdl-transportation-video.png" width="69" height="69" alt="CDL Transportation Video" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
+                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01db/1/-/-/-/-/cdl-1-reduce-accidents.png" width="69" height="69" alt="Reduce Accidents" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 12px; text-align: center; width:100%;">
-                                        <strong>Improve driver<br />performance</strong>
+                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 6px; text-align: center; width:100%;">
+                                        <strong>Reduce<br />Accidents</strong>
                                     </td>
                                 </tr>
                             </table>
                         </td>
                         <!-- Column : END -->
                         <!-- Column : BEGIN -->
-                        <td width="25%" class="stack-column-center">
+                        <td class="stack-quadrant third">
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                 <tr>
                                     <td style="padding: 6px 0; text-align: center">
-                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d6/1/-/-/-/-/cdl-1-cdl-transportation-video.png" width="69" height="69" alt="CDL Transportation Video" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
+                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d8/1/-/-/-/-/cdl-1-eliminate-oos-orders.png" width="69" height="69" alt="Eliminate OOS Orders" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 12px; text-align: center; width:100%;">
-                                        <strong>Improve driver<br />performance</strong>
+                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 6px; text-align: center; width:100%;">
+                                        <strong>Eliminate<br />OOS Orders</strong>
                                     </td>
                                 </tr>
                             </table>
                         </td>
                         <!-- Column : END -->
                         <!-- Column : BEGIN -->
-                        <td width="25%" class="stack-column-center">
+                        <td class="stack-quadrant last">
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                 <tr>
                                     <td style="padding: 6px 0; text-align: center">
-                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d6/1/-/-/-/-/cdl-1-cdl-transportation-video.png" width="69" height="69" alt="CDL Transportation Video" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
+                                        <img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01da/1/-/-/-/-/cdl-1-lower-csa-scores.png" width="69" height="69" alt="Lower CSA Scores" border="0" class="fluid" style="height: auto; background: #ffffff; font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #58595b;">
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 12px; text-align: center; width:100%;">
-                                        <strong>Improve driver<br />performance</strong>
+                                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 15px; color: #1c75bb; padding: 6px; text-align: center; width:100%;">
+                                        <strong>Lower<br />CSA Scores</strong>
                                     </td>
                                 </tr>
                             </table>
