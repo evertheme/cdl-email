@@ -1,18 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
-    <meta charset="utf-8"> <!-- utf-8 works for most cases -->
-    <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
-    <meta name="x-apple-disable-message-reformatting">	<!-- Disable auto-scale in iOS 10 Mail entirely -->
-    <title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
-
-
-    <!-- CSS Reset -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="x-apple-disable-message-reformatting">
+    <title></title>
     <style>
-
-        /* What it does: Remove spaces around the email design added by some email clients. */
-        /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
         html,
         body {
             margin: 0 auto !important;
@@ -20,26 +14,18 @@
             height: 100% !important;
             width: 100% !important;
         }
-
-        /* What it does: Stops email clients resizing small text. */
         * {
             -ms-text-size-adjust: 100%;
             -webkit-text-size-adjust: 100%;
         }
-
-        /* What it does: Centers email on Android 4.4 */
         div[style*="margin: 16px 0"] {
             margin:0 !important;
         }
-
-        /* What it does: Stops Outlook from adding extra spacing to tables. */
         table,
         td {
             mso-table-lspace: 0pt !important;
             mso-table-rspace: 0pt !important;
         }
-
-        /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
         table {
             border-spacing: 0 !important;
             border-collapse: collapse !important;
@@ -49,15 +35,11 @@
         table table table {
             table-layout: auto;
         }
-
-        /* What it does: Uses a better rendering method when resizing images in IE. */
         img {
             -ms-interpolation-mode:bicubic;
         }
-
-        /* What it does: A work-around for email clients meddling in triggered links. */
-        *[x-apple-data-detectors],	/* iOS */
-        .x-gmail-data-detectors, 	/* Gmail */
+        *[x-apple-data-detectors],
+        .x-gmail-data-detectors,
         .x-gmail-data-detectors *,
         .aBn {
             border-bottom: 0 !important;
@@ -69,37 +51,23 @@
             font-weight: inherit !important;
             line-height: inherit !important;
         }
-
-        /* What it does: Prevents Gmail from displaying an download button on large, non-linked images. */
         .a6S {
             display: none !important;
             opacity: 0.01 !important;
         }
-        /* If the above doesn't work, add a .g-img class to any image in question. */
         img.g-img + div {
             display:none !important;
         }
-
-        /* What it does: Prevents underlining the button text in Windows 10 */
         .button-link {
             text-decoration: none !important;
         }
-
-        /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
-        /* Create one of these media queries for each additional viewport size you'd like to fix */
-        /* Thanks to Eric Lepetit (@ericlepetitsf) for help troubleshooting */
-        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) { /* iPhone 6 and 6+ */
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
             .email-container {
                 min-width: 375px !important;
             }
         }
-
     </style>
-
-    <!-- Progressive Enhancements -->
     <style>
-
-        /* What it does: Hover styles for buttons */
         .button-td,
         .button-a {
             transition: all 100ms ease-in;
@@ -109,32 +77,23 @@
             background: #58595b !important;
             border-color: #58595b !important;
         }
-
         .col-420 {
             width: 420px;
         }
-
         .col-180 {
             width: 180px;
         }
-
-        /* Media Queries */
         @media screen and (max-width: 600px) {
-
             .email-container {
                 width: 100% !important;
                 margin: auto !important;
             }
-
-            /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
             .fluid {
                 max-width: 100% !important;
                 height: auto !important;
                 margin-left: auto !important;
                 margin-right: auto !important;
             }
-
-            /* What it does: Forces table cells into full-width rows. */
             .col-420,
             .col-180,
             .stack-column,
@@ -144,12 +103,9 @@
                 max-width: 100% !important;
                 direction: ltr !important;
             }
-            /* And center justify these ones. */
             .stack-column-center {
                 text-align: center !important;
             }
-
-            /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
             .center-on-narrow {
                 text-align: center !important;
                 display: block !important;
@@ -160,18 +116,13 @@
             table.center-on-narrow {
                 display: inline-block !important;
             }
-
-            /* What it does: Adjust typography on small screens to improve readability */
             .email-container p {
                 font-size: 17px !important;
                 line-height: 22px !important;
             }
-
         }
 
     </style>
-
-    <!-- What it does: Makes background images in 72ppi Outlook render at correct size. -->
     <!--[if gte mso 9]>
     <xml>
         <o:OfficeDocumentSettings>
@@ -188,8 +139,6 @@
         <span style="color: #58595b; font-family: 'helvetica neue', helvetica, arial, sans-serif; font-size: 9pt;">Find out the financial impact to your company. <span style="text-decoration: underline; color: #1c75bb;"><a class="msgHeader" href="http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage"><span style="color: #1c75bc; text-decoration: underline;">Click if you don’t see graphics.</span></a></span></span>
     </div>
 
-
-
     <!-- Email Body : BEGIN -->
     <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;" class="email-container">
 
@@ -199,7 +148,7 @@
                 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tr>
                         <td style="font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 11px; color: #aaaaaa; padding: 9px 0; text-align: center">
-                            <a style="text-decoration: underline; color: #444444;" href="tel:+8889272622">888.927.2622</a>
+                            <a style="text-decoration: underline; color: #444444;" href="tel:+1-888-927-2622">888.927.2622</a>
                             &nbsp;|&nbsp;
                             <a style="text-decoration: underline; color: #444444;" href="https://www.sambasafety.com/contact-us/">Contact Us</a>
                             &nbsp;|&nbsp;
@@ -247,7 +196,7 @@
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                 <tr>
                                     <td valign="top" style="padding: 3px 0 12px 0; text-align: right">
-                                        <a href="#" style="border: 0;"><img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d4/1/-/-/-/-/cdl-8-access-risk-assessment.png" alt="Access the Risk Assessment" border="0" style="font-family: sans-serif; font-size: 15px; line-height: 20px; color: #58595b;"></a>
+                                        <a href="http://marketing.sambasafety.com/acton/media/3927/Risk-Assessment" style="border: 0;"><img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d4/1/-/-/-/-/cdl-8-access-risk-assessment.png" alt="Access the Risk Assessment" border="0" style="font-family: sans-serif; font-size: 15px; line-height: 20px; color: #58595b;"></a>
                                     </td>
                                 </tr>
                             </table>
@@ -298,7 +247,7 @@
                 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tr>
                         <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 18px; color: #58595b; padding: 12px 16px 0 16px; text-align: left; width:100%;">
-                            Need another reason? Evaluate your risk today and determine the financial impact with this <a href="#" style="color: #1c75bb;">Risk Assessment.</a> You’ll quickly see the value of improved safety.
+                            Need another reason? Evaluate your risk today and determine the financial impact with this <a href="http://marketing.sambasafety.com/acton/media/3927/Risk-Assessment" style="color: #1c75bb;">Risk Assessment.</a> You’ll quickly see the value of improved safety.
                         </td>
                     </tr>
                 </table>
@@ -312,7 +261,7 @@
                 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tr>
                         <td style="padding: 12px; text-align: center; width:100%;">
-                            <a href="#" style="border: 0;"><img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d5/1/-/-/-/-/cdl-8-request-your-sambasafety-demo.png" alt="Request Your SambaSafety Demo" border="0" style="font-family: sans-serif; font-size: 15px; line-height: 20px; color: #58595b;"></a>
+                            <a href="http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo" style="border: 0;"><img src="http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01d5/1/-/-/-/-/cdl-8-request-your-sambasafety-demo.png" alt="Request Your SambaSafety Demo" border="0" style="font-family: sans-serif; font-size: 15px; line-height: 20px; color: #58595b;"></a>
                         </td>
                     </tr>
                 </table>
@@ -326,21 +275,21 @@
                 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tr>
                         <td style="font-family: 'Helvetica Neue', arial, helvetica, sans-serif; font-size: 14px; line-height: 18px; color: #aaaaaa; padding: 0 16px 12px 16px; text-align: center; width:100%; border-bottom: 4px solid #1c75bb;">
-                            <a style="text-decoration: underline; color: #1c75bb;" href="#">Risk Assesment</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/Risk-Assessment">Risk Assesment</a>
                             &nbsp;|&nbsp;
-                            <a style="text-decoration: underline; color: #1c75bb;" href="tel:+8889272622">Demo&nbsp;Request</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo">Demo&nbsp;Request</a>
                             &nbsp;|&nbsp;
-                            <a style="text-decoration: underline; color: #1c75bb;" href="mailto:email@email.com">Starting&nbsp;Stats</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/Startling-Stats">Startling&nbsp;Stats</a>
                             &nbsp;|&nbsp;
-                            <a style="text-decoration: underline; color: #1c75bb;" href="https://www.sambasafety.com">DRM&nbsp;Checkup</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/Driver-Lifecycle-Checkup">DRM&nbsp;Checkup</a>
                             &nbsp;|&nbsp;
-                            <a style="text-decoration: underline; color: #1c75bb;" href="https://www.sambasafety.comcompany-information">True&nbsp;or&nbsp;False</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/true-false-quiz">True&nbsp;or&nbsp;False</a>
                             &nbsp;|&nbsp;
-                            <a style="text-decoration: underline; color: #1c75bb;" href="https://www.sambasafety.comcompany-information">Roadside&nbsp;Resume</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/Roadside-Resume-Demo">Roadside&nbsp;Resume</a>
                             &nbsp;|&nbsp;
-                            <a style="text-decoration: underline; color: #1c75bb;" href="https://www.sambasafety.comcompany-information">10&nbsp;Questions</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/10-Driver-Safety-Questions">10&nbsp;Questions</a>
                             &nbsp;|&nbsp;
-                            <a style="text-decoration: underline; color: #1c75bb;" href="https://www.sambasafety.comcompany-information">2-minute&nbsp;Videos</a>
+                            <a style="text-decoration: underline; color: #1c75bb;" href="http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Vigillo-Video">2-minute&nbsp;Videos</a>
                         </td>
                     </tr>
                 </table>
