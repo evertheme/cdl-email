@@ -1,0 +1,63 @@
+
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+
+Image:
+To see the original, click here:
+http://marketing.sambasafety.com/acton/attachment/3927/3927:f-004e/1/{{Env.MsgId}}/B1461107821199/{{Env.SrcId}}/{{Env.RecId}}/
+
+Thank you for attending NAFA I&E 2016.
+
+Hi {{First Name}},
+
+Thank you for visiting SambaSafety's booth at NAFA'16. We hope that you
+had a productive and educational conference.
+
+Now that you've gotten to know a little bit about us we would like to
+show you more about what we do and how you and your organization can
+improve driver safery, reduce risk and protect your community.
+
+Watch Our Video
+
+http://marketing.sambasafety.com/acton/media/3927/post-nafa-view-drm-video-prospecting-email
+
+Read our ROI of Driver Safety Whitepaper
+
+http://marketing.sambasafety.com/acton/media/3927/roi-white-paper-download-from-post-nafa-email
+
+Request a Demo
+
+http://marketing.sambasafety.com/acton/media/3927/post-nafa-emailer-demo-request
+
+Learn how continuous monitoring can improve driver safety, reduce
+accidents, lower insurance costs, and mitigate risk.
+
+Read about best practices for driver risk management and fostering a
+culture of driver safety.
+
+Schedule time with one of our safety experts to see our driver risk
+management platform in action and how you can apply to your
+organization.
+
+A simple driving record review does not provide you the continuous
+visibility you need to effectively manage employee driving behaviors and
+reduce preventable risks. The answer is a proven driver monitoring
+solution that easily provides the actionable insight you need to improve
+driver safety, reduce risk, and protect your community.
+
+SambaSafety is the only driver risk management solution with direct
+access to all 50 state DMVs including Washington D.C., Puerto Rico, the
+Virgin Islands and Canada — giving you the actionable insight you need
+to improve driver performance, reduce accidents, and limit risks.
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Copyright © 2017. 1.888.947.2622 opt. 4. {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail,   click here
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)
+

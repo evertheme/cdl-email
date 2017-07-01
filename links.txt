@@ -13,3 +13,25 @@
 7. http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
 
 8. http://marketing.sambasafety.com/acton/media/3927/Risk-Assessment
+
+http://chrislynchcreative.com/sambasafety/cdl/1_SS_Email1_Video_CDL_r3.html
+http://chrislynchcreative.com/sambasafety/cdl/2_SS_Email2_TenQs_CDL_r3.html
+http://chrislynchcreative.com/sambasafety/cdl/3_SS_Email3_RoadRes_CDL_r4.html
+http://chrislynchcreative.com/sambasafety/cdl/4_SS_Email4_TrueFalse_CDL_r3.html
+http://chrislynchcreative.com/sambasafety/cdl/5_SS_Email5_ Lifecycle_CDL_r2.html
+http://chrislynchcreative.com/sambasafety/cdl/6_SS_Email6_Stats_CDL_r3.html
+http://chrislynchcreative.com/sambasafety/cdl/7_SS_Email7_Demo_CDL_r3.html
+http://chrislynchcreative.com/sambasafety/cdl/8_SS_Email8_RiskAssess_CDL_r3.html
+
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+
+
+Copyright © 2014 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+&nbsp;
+If you do not wish to receive future e-mail,&nbsp; click here
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+ .
+(You can also send your request to&nbsp;Sales&nbsp;at the street address above.)

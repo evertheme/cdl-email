@@ -1,0 +1,11 @@
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+
+
+Copyright © 2014 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+&nbsp;
+If you do not wish to receive future e-mail,&nbsp; click here
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+ .
+(You can also send your request to&nbsp;Sales&nbsp;at the street address above.)
