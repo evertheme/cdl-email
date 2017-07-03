@@ -24,6 +24,19 @@ http://chrislynchcreative.com/sambasafety/cdl/7_SS_Email7_Demo_CDL_r3.html
 http://chrislynchcreative.com/sambasafety/cdl/8_SS_Email8_RiskAssess_CDL_r3.html
 
 
+
+
+http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f7/1/-/-/-/-/non-cdl-3-monitor-continuously.png
+http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f6/1/-/-/-/-/non-cdl-3-download-drivermonitor-datasheet.png
+http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f5/1/-/-/-/-/non-cdl-3-modify-behavior.png
+http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f4/1/-/-/-/-/non-cdl-3-identify-risk.png
+http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f3/1/-/-/-/-/non-cdl-1-protect-whats-important.png
+http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f2/1/-/-/-/-/non-cdl-1-driver-risk-management-video.png
+
+
+
+
+
 To view this message in a browser:
 http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
 
