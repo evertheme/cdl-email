@@ -7,7 +7,7 @@ http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{
 
 888.947.2622
 
-[SambaSafety]    [Vigillo]
+[SambaSafety]
 
 ------------------------------------------------------------------
 

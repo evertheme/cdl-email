@@ -1,0 +1,76 @@
+1. NON REG
+
+------------------------------------------------------------------
+Subject Line: Watch this short video on driver monitoring
+Pre-header Text: It’s more than driver safety: It’s a safety culture.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622  
+
+[SambaSafety]    [Vigillo]
+
+------------------------------------------------------------------
+
+When you choose SambaSafety, you already know it’s not about  taking drivers out from behind the wheel. It’s about putting safety first 
+so you can keep drivers on the road. 
+
+We create one comprehensive driver profile by continuously monitoring MVRs 
+and giving you the complete picture of driver safety, risk and compliance.
+
+— Improve driver performance
+— Reduce accidents
+— Lower costs
+— Protect what’s important
+
+It’s more than safety, it’s a safety culture – identifying, monitoring and modifying behaviors so drivers keep up the good work and keep your company out of the headlines. 
+
+------------------------------------------------------------------
+
+See the Video and learn the benefits of having a continuous view of driver behavior.
+
+Driver Risk Management Video:
+http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00a7/t/page/fm/0
+
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com  
+Website: https://www.sambasafety.com
+
+Video: 
+http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00a7/t/page/fm/0
+
+Request Your SambaSafety Demo: 
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017. 1.888.947.2622 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, go to 
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
