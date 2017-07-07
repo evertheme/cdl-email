@@ -21,7 +21,7 @@ See how your current driver safety policy scores:
 [Good] [Average] [Fair] [Poor] 
 
 Access the Risk Assessment:
-http://marketing.sambasafety.com/acton/media/3927/Risk-Assessment
+http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00b3/t/page/fm/0
 
 ------------------------------------------------------------------
 
@@ -40,10 +40,10 @@ Contact SambaSafety to find out more.
 Website: https://www.sambasafety.com
 
 Access Risk Assessment:
-http://marketing.sambasafety.com/acton/media/3927/Risk-Assessment
+http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00b3/t/page/fm/0
 
 Request Your SambaSafety Demo:
-http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00b2/t/page/fm/0
 
 ------------------------------------------------------------------
 
