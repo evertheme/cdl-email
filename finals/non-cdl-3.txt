@@ -1,0 +1,53 @@
+------------------------------------------------------------------
+Comprehensive view of driver compliance, risk and safety.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622
+
+[SambaSafety]
+
+------------------------------------------------------------------
+
+SambaSafety leads the industry in Driver Risk Management. We provide you with a continuous, comprehensive view of employees' driving behavior. This enables you to Identify, Monitor and Modify behavior before there's an accident or lawsuit.
+
+------------------------------------------------------------------
+
+Download DriverMonitor Datasheet:
+http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00a8/t/page/fm/0
+
+------------------------------------------------------------------
+
+Samba DriverMonitor® is the key to our system that helps Identify, Monitor and Modify driver behavior.
+
+— Identify your risk as you optimize compliance, background checks and MVR history
+— Monitor continuously with ongoing MVRs, incident and crash tracking, and external data
+— Modify behavior with incentives, enforcement and online training to keep drivers safe
+
+On average, 10% of drivers make up 40% of crash-related costs. But now, you can do something about it before it's too late.
+
+Check out the Samba DriverMonitor Datasheet. You'll see how this automated foundation of our risk management solution enables more efficient enforcement of your driver safety policy – allowing you to focus on the most critical drivers.
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com
+Website: https://www.sambasafety.com
+
+Download DriverMonitor Datasheet:
+http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00a8/t/page/fm/0
+
+Request Your SambaSafety Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, go to
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)

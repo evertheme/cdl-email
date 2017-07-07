@@ -1,0 +1,53 @@
+------------------------------------------------------------------
+Comprehensive view of driver compliance, risk and safety.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622
+
+[SambaSafety]    [Vigillo]
+
+------------------------------------------------------------------
+
+SambaSafety and Vigillo have released the first of its kind product – Roadside Resume®. It combines continuous MVR and CSA monitoring in a single report, giving you one complete view of all your commercial drivers.
+
+------------------------------------------------------------------
+
+Schedule a Roadside Resume Demo:
+http://marketing.sambasafety.com/acton/media/3927/Roadside-Resume-Demo
+
+------------------------------------------------------------------
+
+Roadside Resume is streamlined to one single view, one report.
+
+— Comprehensive insight into your driver's safety performance
+— Safety events and real-time alerts right at your command
+— Deadlines, expirations and renewal dates top of mind
+
+The hassle-free convenience of this tool saves time. You can view all drivers in one dashboard, drill down to specific driver's risk profiles and be more proactive about safety training for drivers who need it.
+
+Schedule your Roadside Resume Demo and see how your company can benefit from a comprehensive view, which lowers your risk, reduces costs and makes for safer roads and communities.
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com
+Website: https://www.sambasafety.com
+
+Schedule Roadside Resume Demo:
+http://marketing.sambasafety.com/acton/media/3927/Roadside-Resume-Demo
+
+Request Your SambaSafety Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, go to
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)

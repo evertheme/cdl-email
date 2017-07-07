@@ -1,0 +1,58 @@
+------------------------------------------------------------------
+Download this lifecycle checkup infographic.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622
+
+[SambaSafety]
+
+------------------------------------------------------------------
+
+SambaSafety knows that comprehensive Driver Risk Management is essential. So, we partner with companies to bring value-added benefits to our 360-degree approach.
+
+From the first background check through the full term of employment, we help you manage the driver lifecycle, enforce safety and control costs all along the way.
+
+------------------------------------------------------------------
+
+Download the Driver Lifecycle Checkup:
+http://marketing.sambasafety.com/acton/media/3927/Driver-Lifecycle-Checkup
+
+------------------------------------------------------------------
+
+Our partners are part of the driver lifecycle – perhaps you're already working with some of them today. Together, we give you more value for your total spend.
+
+FLEET
+Fleet Management Companies help cut routine costs
+
+COVERAGE
+Insurance Companies factor safety into rates
+
+SCREENING 
+Background Check MVRs get multi-use
+
+You can now have a comprehensive view of your driver lifecycles – identify, monitor and modify behaviors all along the way. Get started with a Lifecycle Checkup and find out if you're covering the complete lifecycle of the driver.
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com
+
+Download the Driver Lifecycle Checkup:
+http://marketing.sambasafety.com/acton/media/3927/Driver-Lifecycle-Checkup
+
+Request Your SambaSafety Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, go to
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)

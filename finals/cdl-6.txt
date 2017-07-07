@@ -1,0 +1,56 @@
+------------------------------------------------------------------
+Check out these startling safety stats.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622
+
+[SambaSafety]    [Vigillo]
+
+------------------------------------------------------------------
+
+SambaSafety believes that it's one thing to have a driver safety policy and another to enforce it. Statistics show that you have to be proactive, enforce your policy and pursue an overall safety culture – or your driver may very well become one of those statistics.
+
+------------------------------------------------------------------
+
+Download Startling Safety Stats:
+http://marketing.sambasafety.com/acton/media/3927/Startling-Stats
+
+------------------------------------------------------------------
+
+Your safety policy helps modify driver behavior when you:
+
+1. Measure your drivers against your policy
+
+2. Provide online training targeted to individual drivers
+
+3. Offer incentives to reinforce successful drivers
+
+4. Benchmark and compare performance to others
+
+Creating a culture and enforcing policy helps you promote safety, modify behavior and keep you out of the headlines. Download the Startling Stats infographic to get started.
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com
+Website: https://www.sambasafety.com
+
+Download Startling Stats:
+http://marketing.sambasafety.com/acton/media/3927/Startling-Stats
+
+
+Request Your SambaSafety Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, click here
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)

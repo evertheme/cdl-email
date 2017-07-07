@@ -1,0 +1,56 @@
+------------------------------------------------------------------
+Solve driver behavior as you manage risk.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622
+
+[SambaSafety]    [Vigillo]
+
+------------------------------------------------------------------
+
+SambaSafety helps you establish a safety culture by providing continuous visibility into employees' driving behavior – on and off the job.
+
+We eliminate the gaps that come from not looking at motor vehicle records continuously or from overlooking personal driving habits.
+
+------------------------------------------------------------------
+
+Download 10 Driver Safety Questions:
+http://marketing.sambasafety.com/acton/media/3927/10-Driver-Safety-Questions
+
+------------------------------------------------------------------
+
+Why is a safety culture important?
+Here are 10 tricky questions clients ask us:
+
+Q:  What if I pull an MVR and my driver gets a citation after that?
+Q:  Isn't it unfair to access off-the-job records for a driver's performance on the job?
+Q:  I pulled an MVR for a background screen – why do I need another?
+
+See all ten Q's and the Answers on the downloadable PDF.
+
+It's one thing to say you're safe. It's another thing to be comprehensive, to be continuously monitoring and to be constantly enforcing your policy. The answers to the 10 Questions will show why it's important and help you move toward a proactive safety culture today.
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com
+Website: https://www.sambasafety.com
+
+Download 10 Questions:
+http://marketing.sambasafety.com/acton/media/3927/10-Driver-Safety-Questions
+
+Request Your SambaSafety Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, go to
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)

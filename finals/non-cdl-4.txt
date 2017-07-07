@@ -1,0 +1,58 @@
+------------------------------------------------------------------
+It also involves 27% of auto fatalities.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622
+
+[SambaSafety]
+
+------------------------------------------------------------------
+
+True or False:
+27% of auto fatalities are speeding related.
+
+The answer is True. Speeding is also the leading violation in crashes and it has a high propensity to be deadly, as this statistic shows.
+
+------------------------------------------------------------------
+
+Test your knowledge on driver safety key facts.
+Take the True or False Quiz:
+http://marketing.sambasafety.com/acton/media/3927/true-false-quiz
+
+------------------------------------------------------------------
+
+Three ways our data goes to work for you:
+
+1. We start with a comprehensive baseline MVR that scores drivers on day 1, identifying the best ones or those who need training
+
+2. Then we continuously monitor MVR and driver data, giving you a complete picture of driver safety, risk and compliance
+
+3. From there, you can intervene with remedies to maintain a team of drivers who are consistently safe on the road
+
+It's true – with SambaSafety technology, you have a continuous, comprehensive view to monitor driver performance, identify risks and modify behavior. Learn more about driver safety facts with our True or False Quiz.
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com
+Website: https://www.sambasafety.com
+
+Download True or False Quiz:
+http://marketing.sambasafety.com/acton/media/3927/true-false-quiz
+
+
+Request Your SambaSafety Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, go to
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)

@@ -1,0 +1,57 @@
+------------------------------------------------------------------
+Maximize, prioritize, optimize driver safety.
+
+To view this message in a browser:
+http://marketing.sambasafety.com/acton/rif/3927/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/showPreparedMessage
+------------------------------------------------------------------
+
+888.947.2622
+
+[SambaSafety]
+
+------------------------------------------------------------------
+
+SambaSafety provides continuous, comprehensive driver safety solutions. And they're totally flexible to how you do business.
+
+Your driver safety policy is as unique as your company. Using SambaSafety, you can configure the solution to enforce your policy, reflect your acceptable risk tolerance levels, eliminate subjectivity and ensure compliance.
+
+See it for yourself. Request a Demo and we'll tailor the presentation especially to your business.
+
+------------------------------------------------------------------
+
+Schedule a Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+SambaSafety enables you to manage drivers the way you want:
+
+MAXIMIZE
+Combine driver-related data with your criteria for a more robust safety policy
+
+PRIORITIZE
+Set your preferred alerts and receive real-time reporting
+
+OPTIMIZE 
+Integrate seamlessly, automate tasks and reduce efforts
+
+Get started on an improved, automated version of your safety solution today by requesting a Demo that can be prepared especially for you.
+
+------------------------------------------------------------------
+
+Contact SambaSafety to find out more.
+888.947.2622  |  sales@sambasafety.com
+Website: https://www.sambasafety.com
+
+Request Your SambaSafety Demo:
+http://marketing.sambasafety.com/acton/media/3927/SambaSafety-Demo
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+Copyright © 2017 {{Account.COMPANY}}
+Our address is {{Account.BIZ_ADDRESS}}
+If you do not wish to receive future e-mail, go to
+http://ci31.actonsoftware.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout
+
+(You can also send your request to Sales at the street address above.)
