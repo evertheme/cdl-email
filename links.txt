@@ -23,8 +23,8 @@ http://chrislynchcreative.com/sambasafety/cdl/6_SS_Email6_Stats_CDL_r3.html
 http://chrislynchcreative.com/sambasafety/cdl/7_SS_Email7_Demo_CDL_r3.html
 http://chrislynchcreative.com/sambasafety/cdl/8_SS_Email8_RiskAssess_CDL_r3.html
 
-
-
+<a style="text-decoration: underline; color: #1c75bb; white-space: nowrap;" href="http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00a8/t/page/fm/0">DriverMonitor</a>
+<a style="text-decoration: underline; color: #1c75bb; white-space: nowrap;" href="http://marketing.sambasafety.com/acton/fs/blocks/showLandingPage/a/3927/p/p-00a7/t/page/fm/0">2-minute Video</a>
 
 http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f7/1/-/-/-/-/non-cdl-3-monitor-continuously.png
 http://marketing.sambasafety.com/cdnr/31/acton/attachment/3927/f-01f6/1/-/-/-/-/non-cdl-3-download-drivermonitor-datasheet.png
